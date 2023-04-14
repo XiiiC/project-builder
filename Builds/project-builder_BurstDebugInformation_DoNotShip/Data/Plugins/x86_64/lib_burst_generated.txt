@@ -1,4 +1,4 @@
-Library: E:\Projects\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: E:\Projects\project-builder\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-14
 --target=AVX2
@@ -8,10 +8,10 @@ Library: E:\Projects\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --float-precision=Standard
 --linker-options=PdbAltPath="project-builder_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Projects\project-builder\Temp\Burst
+--temp-folder=E:\Projects\project-builder\project-builder\Temp\Burst
 --key-folder=E:/Unity/2022.2.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=E:\Projects\project-builder\Library\Burst
---output=E:\Projects\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=E:\Projects\project-builder\project-builder\Library\Burst
+--output=E:\Projects\project-builder\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -34,10 +34,10 @@ Library: E:\Projects\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --float-precision=Standard
 --linker-options=PdbAltPath="project-builder_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Projects\project-builder\Temp\Burst
+--temp-folder=E:\Projects\project-builder\project-builder\Temp\Burst
 --key-folder=E:/Unity/2022.2.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=E:\Projects\project-builder\Library\Burst
---output=E:\Projects\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=E:\Projects\project-builder\project-builder\Library\Burst
+--output=E:\Projects\project-builder\project-builder\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
